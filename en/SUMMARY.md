@@ -4,7 +4,6 @@
 * [Code editor](code_editor/README.md)
 * [Introduction to HTML](html/README.md)
 * [CSS - make it pretty](css/README.md)
-* [How the Internet works?](how_the_internet_works/README.md)
 * [Introduction to command line](intro_to_command_line/README.md)
 * [Python installation](python_installation/README.md)
 * [Django installation](django_installation/README.md)
